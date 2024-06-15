@@ -1,4 +1,5 @@
-## Hi there 👋 - I'm Carter
+## Hi there 👋 - I'm Carter :heart:<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg' width="30em">:heart:
+
 
 
 
@@ -16,7 +17,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idlecore&show_icons=true&theme=radical&hide_border=true&hide_rank=true" style="display: block; width: 50%; margin: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlecore&theme=radical&hide_border=true" style="display: block; width: 50%" />
-</p>
+<h2>
+  Day Job:
+  <br/><br/>
+  <div>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-plain.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg' width="30em">
+  </div>
+</h2>
+
+<h2>
+  After Hours:
+  <br/><br/>
+  <div>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojurescript/clojurescript-plain.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg' width="30em">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg' width="30em">
+  </div>
+</h2>
+
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idlecore&show_icons=true&theme=radical&hide_border=true&hide_rank=true" style="display: block;" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlecore&theme=radical&hide_border=true" style="display: block;" />
+</div>
+
