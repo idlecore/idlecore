@@ -47,11 +47,12 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=idlecore&show_icons=true&theme=radical&hide_border=true&hide_rank=true" style="display: block;" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlecore&theme=radical&hide_border=true" style="display: block;" />
 </div>
+-->
 
